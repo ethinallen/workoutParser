@@ -16,7 +16,7 @@ bicep pull up x 10: 27.5, 27.5, 27.5, 27.5
 11/12/19
 Stationary Bike 10 minutes
 22lb 3x10 tricep pulldown
-Back Squat 135,185,205,225,225
+Back Squat x 5: 135,185,205,225,225
 weight: 139
 —————-
 12/12/19
@@ -46,7 +46,7 @@ chest press x 5: 35,35,40,40,40
 pec fly x 5: 79,80,90
 —————-
 03/01/20
-tricep pulldown x 5: 10x 25, 35, 35, 42.5, 42.5, 42.5
+tricep pulldown x 5: 25, 35, 35, 42.5, 42.5, 42.5
 shoulder press x 5: 50, 55, 55, 60, 65
 decline chest press x 5: 35, 35, 40, 40, 40
 dumbbell shoulder raise x 4: 7.5, 7.5
